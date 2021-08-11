@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/CircleAndCylinder/CircleAndCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CircleCylinder.iml" filepath="$PROJECT_DIR$/.idea/CircleCylinder.iml" />
+    </modules>
+  </component>
+</project>
